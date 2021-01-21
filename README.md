@@ -5,8 +5,8 @@
 </p>
 
 # Ricardo Holanda Nobre
-<sub>*Researcher* at Federal University of Ceará (UFC) and at State University of Ceará (UECE)</sub> &nbsp
-<sub>*Professor* at State University of Ceará (UECE)</sub> &nbsp
+<sub>*Researcher* at Federal University of Ceará (UFC) and at State University of Ceará (UECE)</sub> 
+<sub>*Professor* at State University of Ceará (UECE)</sub>
 <sub>*Data Scientist* at Federal Data Processing Service - SERPRO</sub>
 
 ---
