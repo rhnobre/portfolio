@@ -5,10 +5,11 @@
 </p>
 
 # Ricardo Holanda Nobre
-<sub>*Researcher* at Federal University of Ceará (UFC) and at State University of Ceará (UECE)</sub> <\br>
-<sub>*Professor* at State University of Ceará (UECE)</sub> <\br>
+<sub>*Researcher* at Federal University of Ceará (UFC) and at State University of Ceará (UECE)</sub> &nbsp
+<sub>*Professor* at State University of Ceará (UECE)</sub> &nbsp
 <sub>*Data Scientist* at Federal Data Processing Service - SERPRO</sub>
 
+---
 As an experienced data scientist and academic researcher, I combine analytical skills, the ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in the Brazilian government, I developed critical thinking and problem solving skills.
 
 My credentials include a PhD in Teleinformatics Engineering and a Masters in Computer Science, in addition to being actively participating in scientific research projects at UECE and UFC, focusing on the areas of NLP and Image Processing.
