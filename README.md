@@ -24,7 +24,7 @@ I am the author of books, book chapters and articles published in international 
 * [Medium](https://www.medium.com)
 
 
-## Projetos:
+## Projects:
 
 * **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
