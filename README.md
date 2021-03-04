@@ -21,7 +21,8 @@ I am the author of books, book chapters and articles published in international 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/rhnobre)
-* [Medium](https://www.medium.com)
+* [Lattes](http://lattes.cnpq.br/1723134991744757)
+* [YourAcclaim](https://www.youracclaim.com/users/ricardo-holanda-nobre/badges)
 
 
 ## Projects:
