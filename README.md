@@ -27,14 +27,14 @@ I am the author of books, book chapters and articles published in international 
 
 ## Projects:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/30dUhw8
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2O2wFIj
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
-* **Previnindo a perda de clientes:**
+* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/3rhqG0x
+* **Data Science: Analisando os Dados do Airbnb Rio de Janeiro:** https://bit.ly/3bfnNry
+* **Data Science: Avaliação de Risco de Crédito Nubank:** https://bit.ly/3sKeWUA
+* **Data Science: Detecção do Câncer de Mama:** https://bit.ly/3bj1h1c
+* **Data Science: Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3c0mrA5 
+* **Data Science: Setembro Amarelo - Suicidios:** https://bit.ly/30doxXT
+* **Data Science: Deep Learning - Classificação de Roupas:** https://bit.ly/3sTsXzk
+
 
 ---
 
