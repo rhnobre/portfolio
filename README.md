@@ -39,7 +39,7 @@ I am the author of books, book chapters and articles published in international 
 
 ## Soluctions:
 
-Among the solutions focused on AI in which I participated, I mention the Legislative Observatory. This system uses Artificial Intelligence (AI) to select new legislative proposals from the Chamber of Deputies and the Federal Senate that have a fiscal impact on public spending in Brazil ([Observatório Legislativo](https://www.serpro.gov.br/menu/noticias/noticias-2020/inteligencia-tesouro-proposicoes-gastos-publicos)).
+Among the solutions focused on AI in which I participated, I mention the Legislative Observatory. This system uses Artificial Intelligence (AI) to select new legislative proposals from the Chamber of Deputies and the Federal Senate that have a fiscal impact on public spending in Brazil ([Legislative Observatory](https://www.serpro.gov.br/menu/noticias/noticias-2020/inteligencia-tesouro-proposicoes-gastos-publicos)).
 
 ## Publications in newspapers:
 
