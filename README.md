@@ -11,11 +11,13 @@
 <sub>*Professor* at State University of Ceará (UECE)</sub>
 
 ---
-As an experienced data scientist and academic researcher, I combine analytical skills, the ability to work in team environments and attention to detail. Having spent the last few years applying Machine Learning to real problems in the Brazilian government, I developed critical thinking and problem solving skills.
+As an experienced data scientist and academic researcher, I combine analytical skills, the ability to work in teams and attention to detail. Having spent the last few years applying Machine Learning to real problems of the Brazilian government.
 
-My credentials include a PhD in Teleinformatics Engineering and a Masters in Computer Science, in addition to being actively participating in scientific research projects at UECE and UFC, focusing on the areas of NLP and Image Processing.
+I am currently a Data Scientist at the Federal Data Processing Service ([SERPRO](https://serpro.gov.br/)), coordinator of undergraduate courses in Systems Analysis and Development at Faculdade CDL and professor of undergraduate and graduate courses in specialization / MBA in Data Sciences ([UNI7](https://www.uni7.edu.br/)), Software Engineering ([FIC](https://estacio.br/)), Network Architecture and Cloud Computing, BI - Information Management and Business Intelligence ([BSB](https://bsbr.com.br/)), etc.
 
-I am the author of books, book chapters and articles published in international journals, as well as reviewing international journals such as IEEE Transactions on Geoscience and Remote Sensing, Electronics Letters and, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
+My credentials include the Ph.D. in Teleinformatics Engineering and, the MSc in Computer Science, in addition to actively participating in scientific research projects at UECE and UFC, focusing on the areas of NLP and Image Processing.
+
+I am the author of books, book chapters and articles published in international journals, as well as a reviewer of international journals such as IEEE Transactions on Geoscience and Remote Sensing, Electronics Letters and IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 
 **Background in:** Python, NLP, Machine Learning and, Mathematical Optimisation.
 
@@ -25,7 +27,7 @@ I am the author of books, book chapters and articles published in international 
 * [YourAcclaim](https://www.youracclaim.com/users/ricardo-holanda-nobre/badges)
 
 
-## Projects:
+## Projects in Github:
 
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/3rhqG0x
 * **Data Science: Analisando os Dados do Airbnb Rio de Janeiro:** https://bit.ly/3bfnNry
@@ -34,6 +36,14 @@ I am the author of books, book chapters and articles published in international 
 * **Data Science: Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3c0mrA5 
 * **Data Science: Setembro Amarelo - Suicidios:** https://bit.ly/30doxXT
 * **Data Science: Deep Learning - Classificação de Roupas:** https://bit.ly/3sTsXzk
+
+## Soluctions:
+
+Among the solutions focused on AI in which I participated, I mention the Legislative Observatory. This system uses Artificial Intelligence (AI) to select new legislative proposals from the Chamber of Deputies and the Federal Senate that have a fiscal impact on public spending in Brazil ([Observatório Legislativo](https://www.serpro.gov.br/menu/noticias/noticias-2020/inteligencia-tesouro-proposicoes-gastos-publicos)).
+
+## Publications in newspapers:
+
+* **[Artificial intelligence in Covid-19 era:](https://mais.opovo.com.br/jornal/opiniao/2020/05/24/ricardo-holanda--inteligencia-artificial-em-epoca-de-covid-19.html)** 
 
 
 ---
