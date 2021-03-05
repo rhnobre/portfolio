@@ -43,8 +43,9 @@ Among the solutions focused on AI in which I participated, I mention the Legisla
 
 ## Publications in newspapers:
 
-* **[Artificial intelligence in Covid-19 era:](https://mais.opovo.com.br/jornal/opiniao/2020/05/24/ricardo-holanda--inteligencia-artificial-em-epoca-de-covid-19.html)** 
-
+* **[Artificial intelligence in Covid-19 era](https://mais.opovo.com.br/jornal/opiniao/2020/05/24/ricardo-holanda--inteligencia-artificial-em-epoca-de-covid-19.html), in OPovo Newspaper**
+* **[Beer, diapers and data mining](https://ootimista.com.br/opiniao/cerveja-fralda-e-a-mineracao-de-dados/), in O Otimista Newspaper**
+* **[We are all in the clouds](https://mais.opovo.com.br/jornal/opiniao/2021/01/24/ricardo-holanda--estamos-todos-nas-nuvens.html), in OPovo Newspaper**
 
 ---
 
