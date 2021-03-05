@@ -15,7 +15,7 @@ As an experienced data scientist and academic researcher, I combine analytical s
 
 I am currently a Data Scientist at the Federal Data Processing Service ([SERPRO](https://serpro.gov.br/)), coordinator of undergraduate courses in Systems Analysis and Development at Faculdade CDL and professor of undergraduate and graduate courses in specialization / MBA in Data Sciences ([UNI7](https://www.uni7.edu.br/)), Software Engineering ([FIC](https://estacio.br/)), Network Architecture and Cloud Computing, BI - Information Management and Business Intelligence ([BSB](https://bsbr.com.br/)), etc.
 
-My credentials include the Ph.D. in Teleinformatics Engineering and, the MSc in Computer Science, in addition to actively participating in scientific research projects at UECE and UFC, focusing on the areas of NLP and Image Processing.
+My credentials include the Ph.D. in Teleinformatics Engineering and, the MSc in Computer Science, in addition to actively participating in scientific research projects at [UECE](http://www.uece.br/) and [UFC](http://www.ufc.br/), focusing on the areas of NLP and Image Processing.
 
 I am the author of books, book chapters and articles published in international journals, as well as a reviewer of international journals such as IEEE Transactions on Geoscience and Remote Sensing, Electronics Letters and IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 
