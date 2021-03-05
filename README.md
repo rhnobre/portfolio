@@ -29,13 +29,13 @@ I am the author of books, book chapters and articles published in international 
 
 ## Projects in Github:
 
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/3rhqG0x
-* **Data Science: Analisando os Dados do Airbnb Rio de Janeiro:** https://bit.ly/3bfnNry
-* **Data Science: Avaliação de Risco de Crédito Nubank:** https://bit.ly/3sKeWUA
-* **Data Science: Detecção do Câncer de Mama:** https://bit.ly/3bj1h1c
-* **Data Science: Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3c0mrA5 
-* **Data Science: Setembro Amarelo - Suicidios:** https://bit.ly/30doxXT
-* **Data Science: Deep Learning - Classificação de Roupas:** https://bit.ly/3sTsXzk
+* **Data Science: Investigating the sinking of the Titanic:** https://bit.ly/3rhqG0x
+* **Data Science: Analyzing Airbnb Data in Rio de Janeiro:** https://bit.ly/3bfnNry
+* **Data Science: Nubank Credit Risk Assessment:** https://bit.ly/3sKeWUA
+* **Data Science: Breast Cancer Detection:** https://bit.ly/3bj1h1c
+* **Data Science: Credit Card Fraud Detection:** https://bit.ly/3c0mrA5 
+* **Data Science: Yellow September - Suicides:** https://bit.ly/30doxXT
+* **Data Science: Deep Learning - Clothing Classification:** https://bit.ly/3sTsXzk
 
 ## Soluctions:
 
