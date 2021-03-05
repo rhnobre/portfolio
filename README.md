@@ -6,7 +6,7 @@
 
 # Ricardo Holanda Nobre
 
-<sub>*Data Scientist* at Federal Data Processing Service - SERPRO</sub><br/>
+<sub>*Data Scientist* at SERPRO (Serviço Federal de Procesamento de Dados/Federal Data Processing Service)</sub><br/>
 <sub>*Researcher* at Federal University of Ceará (UFC) and at State University of Ceará (UECE)</sub> <br/>
 <sub>*Professor* at State University of Ceará (UECE)</sub>
 
